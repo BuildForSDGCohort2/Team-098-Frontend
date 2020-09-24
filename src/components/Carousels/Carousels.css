@@ -1,0 +1,8 @@
+.hover-highlight:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.carouselContainer {
+  margin-bottom: 20px;
+}
